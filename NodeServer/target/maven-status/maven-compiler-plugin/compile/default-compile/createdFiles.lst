@@ -1,0 +1,8 @@
+com\server\NodeServer.class
+com\server\CryptoUtil.class
+com\server\ReadPropFile.class
+com\server\BlockServlet.class
+com\server\DBWrite.class
+com\server\BlockService.class
+com\server\Block.class
+com\server\JsonParser.class

@@ -1,0 +1,9 @@
+com\client\ReadPropFile.class
+com\client\BlockServlet$1.class
+com\client\CryptoUtil.class
+com\client\JsonParser.class
+com\client\NodeClient.class
+com\client\BlockServlet.class
+com\client\DBWrite.class
+com\client\Block.class
+com\client\BlockService.class
